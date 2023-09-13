@@ -1,12 +1,15 @@
-
+import Cards from "./components/cards/Cards";
+import Cart from "./components/cart/Cart";
 
 function App() {
-
   return (
     <>
-      <h1 className="text-3xl font-bold text-center">Avengers</h1>
+      <div className="flex justify-between my-20">
+        <Cards></Cards>
+        <Cart></Cart>
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
