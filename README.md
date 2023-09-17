@@ -1,10 +1,10 @@
-# React + Vite
+# The Avengers 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Avengers is a project on practice purposes for learning to react to fundamentals and core concepts. 
 
-Currently, two official plugins are available:
+- There are many actors and directors you can purchase the hero or director for making a movie with your limited budget.
+- Here have a card like a shopping cart that shows you your budget and how much you have and the heroes or doctors' prices or salaries to whom you have selected for your movie.
+- You cannot select heroes or directors multiple times when you have selected them multiple times the site shows a warning or your budget is less than the price of the selected heroes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Site Preview Link :[ https://avengers-peach.vercel.app](https://avengers-peach.vercel.app/)https://avengers-peach.vercel.app/
