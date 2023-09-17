@@ -7,4 +7,4 @@ The Avengers is a project on practice purposes for learning to react to fundamen
 - You cannot select heroes or directors multiple times when you have selected them multiple times the site shows a warning or your budget is less than the price of the selected heroes.
 
 
-Site Preview Link :[ https://avengers-peach.vercel.app](https://avengers-peach.vercel.app/)https://avengers-peach.vercel.app/
+Preview Link :[ https://avengers-peach.vercel.app](https://avengers-peach.vercel.app/)https://avengers-peach.vercel.app/
